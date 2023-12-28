@@ -1,0 +1,133 @@
+----------------------------------------------------
+               Certificate Status
+----------------------------------------------------
+Signed 🟢 = Working
+Semi-Revoked 🟠 = Blacklisted a lot of people
+Revoked 🔴 = No working anymore
+Revoked (DNS) 🔵 = Working with DNS
+----------------------------------------------------
+          Entreprise Certifcates (Signed)
+----------------------------------------------------
+Certificate name: AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
+Status: Signed 🟢
+Expiration Date: Sat, 28 Dec 2024 07:56:40 GMT
+
+Certificate name: China Telling Telecom Co., Ltd.
+Status: Signed 🟢
+Expiration Date: Thu, 20 Mar 2025 08:00:44 GMT
+
+Certificate name: Shougang Jingtang United Iron & Steel Co., LTD 
+Status: Signed 🟢 
+Expiration Date: Sun, 08 Sep 2024 07:55:17 GM
+
+Certificate name: National Petroleum and natural gas pipeline network Group Co., Ltd
+Status: Signed 🟢
+Expiration Date: Mon, 26 Feb 2024 07:43:01 GMT
+
+Certificate name: Sonos, Inc.
+Status: Signed 🟢
+Expiration Date: Fri, 21 Aug 2026 14:10:22 GMT
+  
+Certificate name: China ENFI Engineering Co.Ltd
+Status: Signed 🟢
+Expiration Date: Sat, 09 March 2024 01:23:15 GMT
+
+Certificate name: China Minmetals Corporation
+Status: Signed 🟢
+Expiration Date: Sat, 06 Jul 2024 09:01:52 GMT
+----------------------------------------------------
+          Entreprise Certifcates (Semi-Revoked)
+----------------------------------------------------
+Certificate name: Mylan Inc.
+Status: Semi-Revoked 🟠
+Expiration Date: Mon, 21 Sep 2026 09:12:57 GMT
+----------------------------------------------------
+          Entreprise Certifcates  (Revoked DNS)
+----------------------------------------------------
+Certificate name: Henan Provincial Communications Planning Survey & Design Institute Co.,Ltd.
+Status: Revoked (DNS) 🔵  
+Expiration Date: Thu, 19 Nov 2026 05:20:18 GMT
+
+Certificate name: Gac Trumpchi Car Co.,LTD
+Status: Revoked (DNS) 🔵 
+Expiration Date: Mon, 20 Apr 2026 09:51:35 GMT
+
+Certificate name: Shougang Jingtang United Iron & Steel Co., LTD 
+Status: Revoked (DNS) 🔵 
+Expiration Date: Sun, 08 Sep 2024 07:55:17 GM
+  
+Certificate name: Shanghai Construction No.2 (Group) Co.,Ltd
+Status: Revoked (DNS) 🔵 
+Expiration Date: Tue, 01 Apr 2025 02:26:32 GMT
+
+Certificate name: Sunshine Insurance Group Co., Ltd. (V3)
+Status: Revoked (DNS) 🔵
+Expiration Date: Mon, 02 Nov 2026 01:50:08 GMT
+
+Certificate name: Aldo Group Inc
+Status: Revoked (DNS) 🔵
+Expiration Date: Thu, 16 Oct 2025 20:55:24 GMT
+
+Certificate name: HDFC Life Insurance Company Limited (V2)
+Status: Revoked (DNS) 🔵
+Expiration Date: Tue, 29 Sep 2026 08:37:35 GMT
+
+Certificate name: HDFC Life Insurance Company Limited (V3)
+Status: Revoked (DNS) 🔵
+Expiration Date: Thu, 08 Oct 2026 14:46:54 GMT
+----------------------------------------------------
+          Entreprise Certifcates (Revoked)
+---------------------------------------------------- 
+Certificate name: SAIC-VOLKSWAGEN SALES CO., LTD.
+Status: Revoked 🔴
+Expiration Date: Fri, 28 Feb 2025 02:12:56 GMT
+  
+Certificate name: China Everbright Limited
+Status: Revoked 🔴
+Expiration Date: Thu, 25 Sep 2025 04:13:10 GMT
+
+Certificate name: Rongchuang Huabei Developement Group
+Status: Revoked 🔴
+Expiration Date: Sat, 21 Mar 2026 05:47:16
+
+Certificate name: Dongguan Bank Co., Ltd.
+Status: Revoked 🔴
+Expiration Date: Fri, 23 Aug 2024 08:49:49 GMT
+
+Certificate name: Manulife-Sinochem Life Insurance Co., Ltd.
+Status: Revoked 🔴
+Expiration Date: Sun, 14 Jan 2024 10:24:39 GMT
+
+Certificate name: Sunshine Insurance Group Co., Ltd.
+Status: Revoked 🔴
+Expiration Date: Sat, 19 Sep 2026 03:07:50 GMT
+
+Certificate name: Sunshine Insurance Group Co., Ltd. (V2)
+Status: Revoked 🔴
+Expiration Date: Sat, 19 Sep 2026 03:07:50 GMT
+
+Certificate name: CITIC-Prudential Life Insurance Company Limited
+Status: Revoked 🔴
+Expiration Date: Sat, 18 May 2024 09:44:07 GMT
+----------------------------------------------------
+          Developement Certificates (Signed)
+----------------------------------------------------
+Certificate name: Denis Barilov
+Status: Signed 🟢
+Expiration Date: Sun, 24 Dec 2023 19:40:34 GMT
+
+Certificate name: Azizbek Abdirakhmonov
+Status: Signed 🟢
+Expiration Date: Mon, 20 Feb 2023 14:04:20 GMT
+
+Certificate name: Duong Tung Lam
+Status: Signed 🟢
+Expiration Date: Sat, 23 Nov 2024 15:56:28 GMT
+----------------------------------------------------
+          Developement Certificates (Revoked)
+----------------------------------------------------
+Certificate name: Vladislav Kolchuk
+Status: Revoked 🔴
+Expiration Date: Wed, 21 Feb 2024 09:34:16 GMT
+
+  
