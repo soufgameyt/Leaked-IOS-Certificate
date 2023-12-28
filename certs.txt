@@ -38,7 +38,7 @@ Expiration Date: Sat, 06 Jul 2024 09:01:52 GMT
 ----------------------------------------------------
           Entreprise Certifcates (Semi-Revoked)
 ----------------------------------------------------
-Certificate name: Mylan Inc.
+Certificate name: Mylan Inc. (V2)
 Status: Semi-Revoked 🟠
 Expiration Date: Mon, 21 Sep 2026 09:12:57 GMT
 ----------------------------------------------------
@@ -51,10 +51,6 @@ Expiration Date: Thu, 19 Nov 2026 05:20:18 GMT
 Certificate name: Gac Trumpchi Car Co.,LTD
 Status: Revoked (DNS) 🔵 
 Expiration Date: Mon, 20 Apr 2026 09:51:35 GMT
-
-Certificate name: Shougang Jingtang United Iron & Steel Co., LTD 
-Status: Revoked (DNS) 🔵 
-Expiration Date: Sun, 08 Sep 2024 07:55:17 GM
   
 Certificate name: Shanghai Construction No.2 (Group) Co.,Ltd
 Status: Revoked (DNS) 🔵 
@@ -75,6 +71,16 @@ Expiration Date: Tue, 29 Sep 2026 08:37:35 GMT
 Certificate name: HDFC Life Insurance Company Limited (V3)
 Status: Revoked (DNS) 🔵
 Expiration Date: Thu, 08 Oct 2026 14:46:54 GMT
+
+Certificate name: Shanghai Longcheer Technology Co., Ltd.
+Status: Revoked (DNS) 🔵
+Expiration Date: Tue, 07 Jul 2026 02:55:18 GMT
+
+Certificate name: Sunshine Insurance Group Co., Ltd. (V2)
+Status: Revoked (DNS) 🔵
+Expiration Date: Mon, 29 Dec 2025 15:32:18 GMT
+
+
 ----------------------------------------------------
           Entreprise Certifcates (Revoked)
 ---------------------------------------------------- 
@@ -109,6 +115,26 @@ Expiration Date: Sat, 19 Sep 2026 03:07:50 GMT
 Certificate name: CITIC-Prudential Life Insurance Company Limited
 Status: Revoked 🔴
 Expiration Date: Sat, 18 May 2024 09:44:07 GMT
+
+Certificate name: Mylan Inc.
+Status: Revoked 🔴
+Expiration Date: Sun, 11 Jan 2026 10:40:25 GMT
+
+Certificate name: HDFC Life Insurance Company Limited
+Status: Revoked 🔴
+Expiration Date: Fri, 31 Jul 2026 10:00:26 GMT
+
+Certificate name: China Mobile Group Gansu Company Limited
+Status: Revoked 🔴
+Expiration Date: Sun, 19 Jan 2025 08:51:24 GMT
+
+Certificate Name: Beijing Reci Laser Technology Co., Ltd.
+Status: Revoked 🔴
+Expiration Date: Sun, 15 Oct 2023 12:38:29 GTM
+
+Certificate Name: China Mobile Suzhou Software Technology Co.,Ltd.
+Status: Revoked 🔴
+Expiration Date: Fri, 22 Mar 2024 08:31:10 GTM
 ----------------------------------------------------
           Developement Certificates (Signed)
 ----------------------------------------------------
